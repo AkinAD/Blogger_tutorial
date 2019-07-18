@@ -2,8 +2,10 @@ source 'https://rubygems.org'
 
 gem "paperclip"
 gem 'sorcery'
+#per githubs suggestion
 gem "actionview", ">= 4.2.11.1"
 gem "activejob", ">= 4.2.11"
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.11.1'
